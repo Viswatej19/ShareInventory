@@ -1,0 +1,7 @@
+product_id,brand,category,name,size,quantity,cost_price,selling_price
+508,abcd,share1,bank,123,500,600,800
+509,defg,share2,fmcg,234,600,600,800
+510,hijk,share3,textile,345,700,800,1000
+513,lmno,money1,industry,456,800,600,800
+515,pqrs,money2,automobile,567,900,600,800
+516,tuvw,money3,tech,678,1000,500,700
