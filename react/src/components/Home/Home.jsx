@@ -60,7 +60,7 @@ export class Home extends Component {
                         <div class="content-wrapper">
                             
                             <section class="content-header">
-                                <h1>Share Market Inventory Management</h1>
+                                <h1>Share & money  Inventory Management</h1>
                             </section>
                             
                             <section class="content">
